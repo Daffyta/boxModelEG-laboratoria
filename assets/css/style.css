@@ -51,7 +51,7 @@ header{
   font-size: 14px;
 }
 
-#services{
+/*#services{
   background-color: #F17C72;
   text-align: center;
   color: #fff;
@@ -67,4 +67,86 @@ header{
 .text-services{
   font-size: 35px;
   letter-spacing: 2px;
+}
+
+#work{
+  text-align: center;
+  padding: 35px;
+}
+
+.work-img img{
+  margin: 35px;
+}*/
+
+/*.proyects{
+  margin-left: 80px;
+}
+
+.box-work img.nomProyect{
+  max-width: 30%;
+  height: auto;
+  margin-top: 20px;
+  padding: 10px;
+  display: inline-block;
+  float: left;
+}*/
+
+/*.box-work h4{
+  float: left;
+}*/
+
+#services {
+  background-color: #F17C72;
+  text-align: center;
+  color: #fff;
+  padding: 70px 7px;
+}
+
+.box-services{
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+
+.text-services {
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+
+#work {
+  margin: 0 auto;
+  align-items: center;
+}
+
+#work .container  h2{
+  text-align: center;
+  margin-top: 50px;
+}
+
+#work .box-work{
+  width: 20%;
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+#work .work-img {
+  margin-left: 140px;
+}
+
+#work .box-work img{
+  width: 100%;
+}
+
+#work h4 {
+  text-align: center;
+
+}
+
+footer{
+  text-align: center;
+  color: #fff;
+  background-color: #3b4d4a;
+  padding: 20px;
 }
