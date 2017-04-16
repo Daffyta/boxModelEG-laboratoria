@@ -51,50 +51,6 @@ header{
   font-size: 14px;
 }
 
-/*#services{
-  background-color: #F17C72;
-  text-align: center;
-  color: #fff;
-  padding: 70px 7px;
-}
-
-.box-services{
-  display: inline-block;
-  width: 30%;
-  margin-top: 63px;
-}
-
-.text-services{
-  font-size: 35px;
-  letter-spacing: 2px;
-}
-
-#work{
-  text-align: center;
-  padding: 35px;
-}
-
-.work-img img{
-  margin: 35px;
-}*/
-
-/*.proyects{
-  margin-left: 80px;
-}
-
-.box-work img.nomProyect{
-  max-width: 30%;
-  height: auto;
-  margin-top: 20px;
-  padding: 10px;
-  display: inline-block;
-  float: left;
-}*/
-
-/*.box-work h4{
-  float: left;
-}*/
-
 #services {
   background-color: #F17C72;
   text-align: center;
